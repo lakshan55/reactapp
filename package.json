@@ -16,7 +16,7 @@
     "react-html5-camera-photo": "^1.5.4",
     "react-phone-input-2": "^2.13.7",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-verification-input": "^0.1.5",
     "yup": "^0.29.2"
   },
